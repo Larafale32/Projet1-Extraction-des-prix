@@ -13,14 +13,19 @@ Ce programme permet une **surveillance automatisée** des prix, catégories et i
 
 ### **Branche `master`**
 - **`main.py`** : Script principal du programme.
+- **`all_data.zip`** : Contient toutes les données récupérées, compressées et stockées dans des fichier csv.
+- **`fonctions.py`** : Contient l'intégralité des fonctions utiliser dans le programme. 
 - **`requirements.txt`** : Liste des dépendances Python nécessaires.
 - **`README.md`** : Description du projet et instructions d'utilisation.
-- **`Mail_SAM.docx`** : Explication du programme en tant que pipeline ETL.
+- **`docs`** : Contient le mail pour Sam qui explique en quoi le programme consritue un pipeline ETL.
 - **`.gitignore`** : Définit les fichiers/dossiers à ignorer par Git.
-
+  
 ### **Branche secondaire**
-- **`source/`** : Contient les étapes intermédiaires et fonctions utilisées pour le scraping.
-- **`all_data.zip`** : Données compressées récupérées (incluant des fichiers CSV et des images).
+Contient les différentes étapes du projet :
+- **`etape1`** 
+- **`etape2`**
+- **`etape3`** 
+- **`etape4`** 
 
 ## Instructions :
 
