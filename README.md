@@ -54,7 +54,7 @@ Le programme offre 4 actions, exécutable depuis le terminal :
 Cette action récupère les infos détaillées d'un seul livre. 
 
 #### commande : 
-- `python main.py 1 <URL_du_livre>`
+- `python main.py livre <URL_du_livre>`
 
 #### exemple :
 - `python main.py livre http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html`
