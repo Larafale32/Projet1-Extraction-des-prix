@@ -9,7 +9,7 @@ def instructions():
         "\nBienvenue sur le service de surveillance du site 'Books to Scrape'.\n"
         "Voici les commandes que vous pouvez exécuter :\n"
         "  1 <URL du livre>          : Afficher les informations sur un livre.\n"
-        "  2 <Nom de la catégorie> <Nombre de pages> : Afficher les informations de tous les livres d'une catégorie.\n"
+        "  2 <Nom de la catégorie> : Afficher les informations de tous les livres d'une catégorie.\n"
         "  3 <Nombre de pages>       : Afficher les informations de tous les livres.\n"
         "  4 <Nombre de pages>       : Télécharger toutes les images des livres du site.\n"
         "\nExemples :\n"
